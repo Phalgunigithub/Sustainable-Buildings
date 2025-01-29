@@ -1,0 +1,32 @@
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\appsettings.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Sustainable Buildings.exe
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Sustainable Buildings.deps.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Sustainable Buildings.runtimeconfig.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Sustainable Buildings.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Sustainable Buildings.pdb
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.csproj.AssemblyReference.cache
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.AssemblyInfoInputs.cache
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.AssemblyInfo.cs
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.csproj.CoreCompileInputs.cache
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets\msbuild.Sustainable Buildings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets\msbuild.build.Sustainable Buildings.props
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sustainable Buildings.props
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sustainable Buildings.props
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\scopedcss\bundle\Sustainable Buildings.styles.css
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustaina.791E1A89.Up2Date
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\refint\Sustainable Buildings.dll
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.pdb
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\Sustainable Buildings.genruntimeconfig.cache
+C:\Users\SEZ6471\source\repos\Sustainable Buildings\obj\Debug\net8.0\ref\Sustainable Buildings.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:services\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\sustainable buildings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:sustainable buildings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|c:\\users\\sez6471\\source\\repos\\sustainable buildings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9905FBB-EBFD-4B20-8CB4-1333F9A95FA8}|Sustainable Buildings.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Services\\BuildingService.cs",
+              "RelativeDocumentMoniker": "Services\\BuildingService.cs",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Services\\BuildingService.cs",
+              "RelativeToolTip": "Services\\BuildingService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:15:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:40:03.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuildingController.cs",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "Controllers\\BuildingController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:19:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Services\\IBuildingService.cs",
+              "RelativeDocumentMoniker": "Services\\IBuildingService.cs",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Services\\IBuildingService.cs",
+              "RelativeToolTip": "Services\\IBuildingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:13:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sustainable Buildings",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Sustainable Buildings.csproj",
+              "RelativeDocumentMoniker": "Sustainable Buildings.csproj",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Sustainable Buildings.csproj",
+              "RelativeToolTip": "Sustainable Buildings.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T06:47:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "Models\\Data.cs",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Models\\Data.cs",
+              "RelativeToolTip": "Models\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:22:30.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T12:11:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SEZ6471\\source\\repos\\Sustainable Buildings\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T09:29:27.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
