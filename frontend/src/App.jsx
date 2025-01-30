@@ -6,6 +6,7 @@ import "./App.css";
 import { NotFound } from "./components/NotFound";
 import { Window } from "./components/Window";
 import Home from "./components/Home";
+import { Favorites } from "./components/Favorites";
 
 function App() {
   return (
@@ -21,9 +22,12 @@ function App() {
               title="Title"
               description="this is very long description"
               link="card page"
+              id="1"
             ></Card>
           }
         ></Route>
+
+        <Route path="/favorites" element={<Favorites></Favorites>}></Route>
         
         <Route path="/popup" element={<Window></Window>}></Route>
 
